@@ -1,0 +1,219 @@
+**kern	**kern
+*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]
+*M44	*M44
+=-	=-
+4f#	16r
+.	16a#LL
+.	16b
+.	16cc#JJ
+16eLL	16ddLL
+16d	16ee
+16c#	16ff#
+16BJJ	16ddJJ[
+4g#	16ddLL]
+.	16b#
+.	16cc#
+.	16dd#JJ
+16f#LL	16eeLL
+16e	16ff#
+16d	16gg#
+16c#JJ	16eeJJ[
+=	=
+4a	16eeLL]
+.	16cc#
+.	16dd
+.	16eeJJ
+16g#LL	16ff#LL
+16f#	16gg#
+16e	16aa
+16dJJ	16ff#JJ[
+4b	16ff#LL]
+.	16dd#
+.	16ee
+.	16ff#JJ
+16aLL	16gg#LL
+16g#	16aa
+16f#	16bb
+16eJJ	16gg#JJ[
+=	=
+4cc#	16gg#LL]
+.	16ee#
+.	16ff#
+.	16gg#JJ
+16bLL	16aaLL
+16a	16bb
+16g#	16ccc#
+16f#JJ	16aaJJ[
+4dd	16aaLL]
+.	16ff##
+.	16gg#
+.	16aaJJ
+16cc#LL	16bbLL
+16b	16ccc#
+16a	16ddd
+16g#JJ	16bbJJ
+=	=
+24c#LL	8r
+24a	.
+24cc#JJ	.
+8r	24eeLL
+.	24aa
+.	24eeeJJ
+24c#LL	8r
+24a	.
+24cc#JJ	.
+8r	24eeLL
+.	24aa
+.	24eeeJJ
+24c#LL	8r
+24a	.
+24cc#JJ	.
+8r	24ee#LL
+.	24aa
+.	24eee#JJ
+24c#LL	8r
+24a	.
+24cc#JJ	.
+8r	24ee#LL
+.	24aa
+.	24eee#JJ
+=	=
+*met(c)	*met(c)
+=-	=-
+1r	16e-LL<
+.	16f
+.	16g
+.	16a-JJ
+.	16b-LL
+.	16cc
+.	16dd
+.	16ee-JJ
+.	16eeLL
+.	16ff
+.	16dd-
+.	16b-JJ
+.	16ccLL
+.	16dd-
+.	16b-
+.	16gJJ
+=	=
+16AA-LL	4c: 4e-: 4a-:
+16A-	.
+16G	.
+16A-JJ	.
+8AA-	8r
+8r	16a-LL
+.	16gJJ
+2r	16b-LL
+.	16a-
+.	16cc
+.	16b-JJ
+.	16dd-LL
+.	16cc
+.	16ee-
+.	16dd-JJ
+=	=
+4DD- 4D-	4f: 4b-: 4dd-: 4ff:
+4r	16ee-LL
+.	16dd-
+.	16cc
+.	16b-JJ
+8r	16a-LL
+.	16g
+8CL	16a-
+.	16ccJJ
+8D-	16b-LL
+.	16dd-
+8E-J	16g
+.	16b-JJ
+=	=
+16AA-LL	4c: 4e-: 4a-:
+16A-	.
+16G	.
+16A-JJ	.
+8AA-	8r
+8r	16a-LL
+.	16gJJ
+2r	16b-LL
+.	16a-
+.	16cc
+.	16b-JJ
+.	16dd-LL
+.	16cc
+.	16ee-
+.	16dd-JJ
+=	=
+4DD- 4D-	4f: 4b-: 4dd-: 4ff:
+4r	16ee-LL
+.	16dd-
+.	16cc
+.	16b-JJ
+8r	16a-LL
+.	16g
+8CL	16a-
+.	16ccJJ
+8D-	16b-LL
+.	16dd-
+8E-J	16g
+.	16b-JJ
+*clefG2	*
+=	=
+=-	=-
+12EEL	4g# 4gg#
+12B	.
+12BBJ	.
+12BL	4e 4ee
+12BB	.
+12BJ	.
+12CC#L	4a# 4aa#
+12B	.
+12BBJ	.
+12BL	4f# 4ff#
+12BB	.
+12BJ	.
+=	=
+12BBBL	2b 2bb
+12B	.
+12BBJ	.
+12BL	.
+12BB	.
+12BJ	.
+12GG#L	8b 8bbL
+12B	.
+.	8a# 8aa#
+12BBJ	.
+12BL	8b 8bb
+12BB	.
+.	8cc# 8ccc#J
+12BJ	.
+=	=
+12AAL	4b 4bb
+12B	.
+12BBJ	.
+12BL	4B 4b
+12BB	.
+12BJ	.
+12FF#L	4c# 4cc#
+12B	.
+12BBJ	.
+12BL	4d# 4dd#
+12BB	.
+12BJ	.
+=	=
+12GG#L	2e 2ee
+12B	.
+12BBJ	.
+12BL	.
+12BB	.
+12BJ	.
+12DD#L	8g# 8gg#L
+12B	.
+.	8f# 8ff#
+12BBJ	.
+12BL	8e 8ee
+12BB	.
+.	8f# 8ff#J
+12BJ	.
+=	=
+*-	*-
